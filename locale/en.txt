@@ -1,0 +1,178 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = VR Tour of the Commons Ford Ranch Park in collaboration with the City of Austin Park Rangers
+
+### Title
+tour.name = Commons Ford Ranch Park
+
+## Skin
+
+### Multiline Text
+HTMLText_119E6B44_03C9_3A60_417F_E649C6F59526.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:37px;"><B>City of Austin VR</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:37px;"><B>Commons Ford Ranch Metropolitan Park</B></SPAN><SPAN STYLE="font-size:37px;"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Austin Parks and Recreation</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Commons Ford Ranch Metropolitan Park is a significant cultural landscape in one of the most natural park settings in Austin. Like all the land in Texas, the area around Commons Ford Ranch Park was originally occupied by Native Americans. Just across Lake Austin, which runs along the north side of the park was a well-known spring named Santa Monica Springs. It is thought that the most recent tribes that used this area prior to arrival of white settlers were the Comanche and Tonkawa, who often fished and hunted along the creeks and rivers frequenting Santa Monica Springs using it as a campsite.   </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">The Preece family were some of the first Anglo settlers in the area when they came to central Texas around 1838. By the time he was 16 in 1849, Dick Preece was a volunteer with the Texas Rangers, and officially joined the organization as a Ranger in 1855. By 1859 Dick Preece began acquiring land in the area and began his cattle ranch. The Preeces later sold their land on the Colorado River and moved closer to Bull Creek.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">By the 1890s, the Santa Monica Springs were a popular tourist attraction. Steamer ships made daily trips up the river from Austin carrying hundreds of passengers each day. The area was popular for camping and picnicking, and the waters were thought to be medicinal. By 1893, the spring was configured with cement and pipe so that the water would still be available after the possibility of the new dam submerging them. The popularity of the springs waned around the turn of the twentieth century as dams on the Colorado River immersed the springs.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">In the early twentieth century, the land became privatized and a working cattle ranch, Resaca Ranch, was operating on the property. Several historic buildings from the Resaca Ranch remain at the park today and include a barn, a ranch house, and a caretaker’s house.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Knowing that the City was looking for waterfront parkland, Bradley and Wooley, Inc. sold 215 acres in 1983 for the area known today as Commons Ford Ranch Metropolitan Park. The park includes scenic, rustic wildland, a boat dock, picnic area, and swimming area intermixed with historic artifacts making this park truly special.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">This project was created in collaboration with the City of Austin Park Rangers and Communications and Technology Management (CTM) Department.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;"><B>VR Commons Ford Ranch Expedition Team</B></SPAN><B>:</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Jimmy Evans</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Casey Carter</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Sheridan Jones</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Marbenn Cayetano</SPAN></SPAN></DIV></div>
+
+### Tab Panel
+TabPanelPage_EB10C36D_FBF3_5779_41D1_E8A51BE7EF1E.label = Commons Ford Ranch Park Media
+TabPanelPage_EB11236D_FBF3_5779_41BB_E21B1976C389.label = About
+TabPanelPage_EB17836D_FBF3_5779_41B5_0B878DD1E213.label = Commons Ford Ranch Park
+
+### Tooltip
+Image_0F1988E8_1D38_F021_41B3_7097618BA3E7.toolTip = Austin Park Ranger
+Image_C1917B7E_CD65_BB02_41CF_3E886C81AE2F.toolTip = Leave No Trace
+Image_E9C82CBA_F8EA_E311_41E9_A6E55967A747.toolTip = Austin Parks & Recreation
+
+## Media
+
+### Title
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA.label = Scenery
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_1.label = PSX_20200301_201940
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_10.label = PSX_20200301_202800
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_17.label = PSX_20200523_144844
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_18.label = PSX_20200523_145236
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_19.label = PSX_20200523_145643
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_2.label = PSX_20200301_202032
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_24.label = PSX_20200523_151753
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_25.label = PSX_20200523_152340
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_27.label = PSX_20200523_153952
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_3.label = PSX_20200301_202229
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_4.label = PSX_20200301_202301
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_5.label = PSX_20200301_202326
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_8.label = PSX_20200301_202642
+album_13D81BFC_5DF9_AC4B_41D9_AD646E0E54CA_9.label = PSX_20200301_202700
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8.label = Critters
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_0.label = PSX_20200301_201804
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_2.label = PSX_20200301_202623
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_3.label = PSX_20200523_143259
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_4.label = PSX_20200523_143634
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_5.label = PSX_20200523_144018
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_6.label = PSX_20200523_151114
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_7.label = PSX_20200523_150707
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_8.label = PSX_20200617_170647
+album_D1F5D5F0_C0EB_D9D7_41D9_8090200119C8_9.label = PSX_20200617_175302
+map_B02F0FB6_BD4B_71B2_41DC_65FAB390A270.label = TrailBasemap
+panorama_C0EAA902_D1F5_1085_41D2_EC289E908129.label = Trail 1 Bench Stop
+panorama_C1C7F331_D1FB_1087_41E4_E23421195259.label = Trail 1 Field
+panorama_C1F02061_D1F5_1087_41DD_1FE3AE79954A.label = Trail 1 Bench
+panorama_C659B011_D56E_EF33_41D4_555B80E97080.label = Off the Beaten Path 3
+panorama_CCA08ABA_C3CC_1A56_41E5_6C3770166005.label = Trail 1 Birding Entrance
+panorama_D21EFE44_C3C4_3A32_41DE_82206AA956F3.label = Trail 1 Entrance (Barn)
+panorama_D3172859_C3CC_06D2_41CE_0281DB0A9258.label = Trail 1 Birding Station
+panorama_DA3A4FD1_D1DB_6F87_41C6_429394353F5B.label = Trail 1 Turn
+panorama_DAF8BD62_D1BE_8B31_41C1_29FABCE00072.label = Trail 1
+panorama_DE1E3E8B_D1FB_319B_41E7_FC66B8655AFD.label = Field Center
+panorama_EA5958FC_E452_3A19_41D1_DD3AD3075339.label = Trail 1 Bench
+panorama_EA598271_E452_4E2B_41D4_F489EEA854C0.label = Trail 1 Field
+panorama_EA59BA88_E452_3EF9_41E0_4BF09556A588.label = Trail 1 Entrance
+panorama_EA5E60B2_E456_4A29_41D9_564AC82B865C.label = Waterfall Trail Fallen Tree
+panorama_EA5EE058_E456_4A19_41E6_D66A3386FE81.label = Waterfall Trail Entrance
+panorama_EA5FF365_E456_4E2B_41D7_A5282E454016.label = Waterfall Trail Turn
+panorama_EA600B3B_E472_3E1F_41D9_3E9E845FE56D.label = Waterfall 2 bottom
+panorama_EA6035B6_E476_4A29_41E2_68EC0BD19766.label = Waterfall 2 Top
+panorama_EA6089FC_E473_DA19_41C7_08F0DD3785D2.label = Trail 2 Entrance
+panorama_EA60AFE6_E472_3629_4184_1FDF5039E03D.label = Park Entrance
+panorama_EA616728_E472_5639_41D0_06EC8B8EBF82.label = Trail 1 and 2 fork
+panorama_EA61CFC4_E472_F669_41E0_7ACD74219005.label = Trail 2
+panorama_EA62223D_E476_CE1B_41E0_C0D023C73764.label = Off the Beaten Path 4
+panorama_EA62F29B_E47E_4E1F_41D4_89AC493CC799.label = Inlet
+panorama_EA631297_E47E_4E17_41C5_D1B79C3040AA.label = Trail Field Fork
+panorama_EA657A9B_E472_5E1F_41D0_82138BD46813.label = Off the Beaten Path 2
+panorama_EA65F337_E46E_4E17_41B2_F6EBEB233926.label = Waterfall Trail Incline
+panorama_EA6723F8_E472_4E19_41D4_730A1603AE44.label = Off the Beaten Path 1
+panorama_EA67F08E_E472_CAF9_41BD_3068BB0B5FB7.label = Waterfall 1
+panorama_EA6E15BD_E475_CA1B_4173_85427A8E6B35.label = House
+panorama_EA6E2AE9_E475_DE3B_41C3_D679DC382E5E.label = Off the Beaten Path End
+panorama_EA6EF26D_E472_4E3B_41EA_9ED9E5AC5210.label = Boathouse
+photo_D03F01C5_C0EE_3639_41CB_E7E4D48DAB5F.label = PSX_20200617_171057
+photo_D03F01C5_C0EE_3639_41CB_E7E4D48DAB5F.label = PSX_20200617_171057
+photo_D03F143C_C0EE_3E4F_41DC_7AD28CE81861.label = PSX_20200617_172647
+photo_D03F143C_C0EE_3E4F_41DC_7AD28CE81861.label = PSX_20200617_172647
+photo_D03F1940_C0EE_3637_41C2_0D8BDB9E9817.label = PSX_20200617_174335
+photo_D03F1940_C0EE_3637_41C2_0D8BDB9E9817.label = PSX_20200617_174335
+photo_D03F26CA_C0EE_3BCB_41E4_6FBB55A43337.label = PSX_20200617_173433
+photo_D03F26CA_C0EE_3BCB_41E4_6FBB55A43337.label = PSX_20200617_173433
+photo_D03F32FF_C0EE_3BC9_41E0_A2001EA16323.label = PSX_20200617_172214
+photo_D03F32FF_C0EE_3BC9_41E0_A2001EA16323.label = PSX_20200617_172214
+photo_D03F4095_C0EE_3659_41E2_4C5302DA7D04.label = PSX_20200617_170222
+photo_D03F4095_C0EE_3659_41E2_4C5302DA7D04.label = PSX_20200617_170222
+photo_D03F4A7E_C0EE_4ACB_41E5_067D8B11BA6B.label = PSX_20200617_175302
+photo_D03F4A7E_C0EE_4ACB_41E5_067D8B11BA6B.label = PSX_20200617_175302
+photo_D03F5803_C0EE_3639_41E0_45E971C369F0.label = PSX_20200617_173902
+photo_D03F5803_C0EE_3639_41E0_45E971C369F0.label = PSX_20200617_173902
+photo_D03F658D_C0EE_3E49_41D7_B017FD5B1437.label = PSX_20200617_173033
+photo_D03F658D_C0EE_3E49_41D7_B017FD5B1437.label = PSX_20200617_173033
+photo_D03FA91C_C0EE_D64F_41E4_224AE286D619.label = PSX_20200301_203109
+photo_D03FA91C_C0EE_D64F_41E4_224AE286D619.label = PSX_20200301_203109
+photo_D03FABA0_C0EE_CA77_41E3_3D7EE23F6592.label = PSX_20200523_150221
+photo_D03FABA0_C0EE_CA77_41E3_3D7EE23F6592.label = PSX_20200523_150221
+photo_D03FBE1E_C0EE_CA4B_41E0_191019AE8DD6.label = PSX_20200523_152714
+photo_D03FBE1E_C0EE_CA4B_41E0_191019AE8DD6.label = PSX_20200523_152714
+photo_D03FECCC_C0EE_CFCF_41CA_343CF98B2307.label = PSX_20200523_151601
+photo_D03FECCC_C0EE_CFCF_41CA_343CF98B2307.label = PSX_20200523_151601
+photo_D03FFA57_C0EE_CAD9_41DD_6EF35DF1406D.label = PSX_20200523_144428
+photo_D03FFA57_C0EE_CAD9_41DD_6EF35DF1406D.label = PSX_20200523_144428
+photo_D03FFF5A_C0EE_CACB_41E2_854FED153A61.label = PSX_20200617_165803
+photo_D03FFF5A_C0EE_CACB_41E2_854FED153A61.label = PSX_20200617_165803
+photo_D25BC703_C0EE_DA39_41C0_68A208250A3D.label = PSX_20200301_202956
+photo_D25BC703_C0EE_DA39_41C0_68A208250A3D.label = PSX_20200301_202956
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_90AF2B75_D577_71F3_41CC_BD8667CB3D6C.toolTip = Park Entrance
+HotspotPanoramaOverlayArea_999B80D4_D56B_6F31_41AA_4FF6E9382920.toolTip = Fork between trail 1 and 2
+HotspotPanoramaOverlayArea_C2410248_D52E_9311_41A3_521D8C5CAB37.toolTip = Waterfall Trail Entrance
+HotspotPanoramaOverlayArea_C291D7E1_D529_9113_41C5_CE55AA95CCB9.toolTip = Birding station entrance
+HotspotPanoramaOverlayArea_C2F2BE84_D52A_9311_41E4_A471E688992C.toolTip = Entering the trail!
+HotspotPanoramaOverlayArea_C3E60C50_D52F_9731_41DB_CAE4B722CA23.toolTip = Trail 1 Entrance
+HotspotPanoramaOverlayArea_C83B5B53_D537_9137_41E8_E8E64EC07780.toolTip = Boathouse
+HotspotPanoramaOverlayArea_C8627A73_D539_93F7_41D2_CFF4D522B0D3.toolTip = Back to trail
+HotspotPanoramaOverlayArea_C86A297C_D536_F1F1_41DE_AF7BB35368D4.toolTip = Water inlet
+HotspotPanoramaOverlayArea_C87C71E4_D53B_F111_41E6_DC57E6B7CFF0.toolTip = Trail fork
+HotspotPanoramaOverlayArea_C8C9295A_D536_F131_41E2_CE137CAF2A0E.toolTip = Trail fork
+HotspotPanoramaOverlayArea_C8CA6082_D52B_6F11_41C5_5A611C91695E.toolTip = Center of field
+HotspotPanoramaOverlayArea_C97713CB_D53A_B117_41E8_5E516261A540.toolTip = Center of field
+HotspotPanoramaOverlayArea_CA22FB2A_D52A_9111_41E6_26D85FBC1638.toolTip = Back to trail
+HotspotPanoramaOverlayArea_CACAE193_D52F_9137_41E5_E0E572C4AC2E.toolTip = Trail 2
+HotspotPanoramaOverlayArea_CB250324_D529_7111_41DF_FA8601B52516.toolTip = Center of field
+HotspotPanoramaOverlayArea_CBB7C846_D52A_9F11_41CC_E1A8278205C3.toolTip = Center of field
+HotspotPanoramaOverlayArea_CBF5EDA7_D52E_911F_41AE_70E5F98D7767.toolTip = Back to field
+HotspotPanoramaOverlayArea_CC2B1568_D53B_9111_41B1_796F8333AE0C.toolTip = Birding entrance
+HotspotPanoramaOverlayArea_CC3DABC7_D539_711F_41E8_CA194AE0F5DE.toolTip = Bench stop
+HotspotPanoramaOverlayArea_CD04677D_D52A_B1F3_41D5_A0D4F050782B.toolTip = Trail entrance near barn
+HotspotPanoramaOverlayArea_CDC373EF_D539_70EF_41E6_DF9E4C089B48.toolTip = Birding Station
+HotspotPanoramaOverlayArea_CED27CBB_D53A_B777_41E6_984B860B6C2F.toolTip = Bench stop entry
+HotspotPanoramaOverlayArea_CFB837A8_D53E_9111_41C6_421C14EA679A.toolTip = Bench
+HotspotPanoramaOverlayArea_E4115F64_D52E_F111_41EA_839672F1032E.toolTip = Exiting
+HotspotPanoramaOverlayArea_E418FD56_D52B_7131_41DF_7ADCCC9454E2.toolTip = House
+HotspotPanoramaOverlayArea_E4232773_D53A_91F7_41B6_D9ED2818CBBF.toolTip = "Off the Beaten Path"
+HotspotPanoramaOverlayArea_E52C1932_D536_9171_41D4_C78C23EE8A86.toolTip = Top of waterfall
+HotspotPanoramaOverlayArea_E5C642C7_D536_B31F_41E5_C7AA0054FF8D.toolTip = Top of waterfall 2
+HotspotPanoramaOverlayArea_E5FAF9A1_D539_9113_41CF_E846100C8754.toolTip = Bottom of waterfall
+HotspotPanoramaOverlayArea_E5FB6A16_D529_B331_41C0_32B80CC80DA7.toolTip = Waterfall 2 at bottom
+HotspotPanoramaOverlayArea_E6657EDE_D52B_F331_41E4_97B015BAAABA.toolTip = Waterfall 1
+HotspotPanoramaOverlayArea_E709C400_D52E_9711_41DF_101E4F16A2CC.toolTip = Waterfall 1
+HotspotPanoramaOverlayArea_E727B3E9_D52A_B113_41CF_E83EB2289006.toolTip = Trail incline
+HotspotPanoramaOverlayArea_EF4563F0_D516_B0F1_41E7_9C6F0799648A.toolTip = Trail Entrance
+HotspotPanoramaOverlayArea_F4540A63_D52A_9317_419D_E358A8656C4E.toolTip = Trail entrance
+HotspotPanoramaOverlayArea_F45F66C0_D52B_B311_41D0_F740804BCCE8.toolTip = Bench along trail
+HotspotPanoramaOverlayArea_F72CC90F_D517_912F_41C8_59ECCC306D69.toolTip = Bench along trail
+HotspotPanoramaOverlayArea_F8F96630_D529_B371_41E8_F49CC0FF33F5.toolTip = Fallen tree on path
+HotspotPanoramaOverlayArea_F98752AB_D52B_9317_41CC_AC19FACDDC20.toolTip = Entrance
+HotspotPanoramaOverlayArea_FA00DC93_D516_9737_41CD_7FF0615A9901.toolTip = Trail entrance by barn
+HotspotPanoramaOverlayArea_FAB7782D_D519_BF13_41E1_23981533F67A.toolTip = Exit ":Off the beaten path"
+HotspotPanoramaOverlayArea_FB03CBD6_D6FB_9131_41D7_A84742ACE834.toolTip = Trail 2 entrance
+HotspotPanoramaOverlayArea_FD8483D3_D6E9_7137_41AE_29552C0D2F26.toolTip = Trail 2 entrance
+HotspotPanoramaOverlayArea_FDBCD2E4_D6EB_9311_41AD_84034F12E3B7.toolTip = House
+HotspotPanoramaOverlayArea_FDBCF7BC_D6EE_9171_41EA_25081D0CFC33.toolTip = Trail 1 entrance
+HotspotPanoramaOverlayArea_FEB58A09_D717_7313_41E6_284B25529749.toolTip = Back to entrance near barn
+HotspotPanoramaOverlayArea_FFD4CA08_D6EA_F311_41C0_E0DD2A38156F.toolTip = Fork between trail 1 and 2
+HotspotPanoramaOverlayArea_FFE50912_D6EA_9131_41B0_4D073467A842.toolTip = Trail entrance
+
+## Action
+
+### URL
+LinkBehaviour_EF33941E_E456_4A19_41EB_44B1872A1209.source = http://www.austintexas.gov/page/trail-directory
+LinkBehaviour_EF33B41D_E456_4A1B_41EA_249D6D9264D5.source = http://LNT.org
+LinkBehaviour_EF3D041E_E456_4A19_41E3_AFD6C0F62AA7.source = http://www.austintexas.gov/parkrangers
